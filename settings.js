@@ -9,15 +9,15 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6282113821188'] //['628','628'] 2 owner
+global.owner = ['60102810046'] //['628','628'] 2 owner
 global.packname = 'Bot WhatsApp'
-global.author = 'Nazedev'
-global.botname = 'Naze Bot'
+global.author = 'man'
+global.botname = 'Bot'
 global.listprefix = ['+','!','.']
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json' // Taruh url mongodb di sini jika menggunakan mongodb. Format : 'mongodb+srv://...'
 global.pairing_code = true
-global.number_bot = '' // Kalo pake panel bisa masukin nomer di sini, jika belum ambil session. Format : '628xx'
+global.number_bot = '37256179776' // Kalo pake panel bisa masukin nomer di sini, jika belum ambil session. Format : '628xx'
 
 global.fake = {
 	anonim: 'https://telegra.ph/file/95670d63378f7f4210f03.png',
@@ -29,13 +29,13 @@ global.fake = {
 
 global.my = {
 	yt: 'https://youtube.com/c/Nazedev',
-	gh: 'https://github.com/nazedev',
+	gh: 'https://github.com/manzx666',
 	gc: 'https://chat.whatsapp.com/B5qJIwZHm4VEYZJQE6iMwy',
 	ch: '120363250409960161@newsletter',
 }
 
 global.limit = {
-	free: 20,
+	free: 120,
 	premium: 999,
 	vip: 9999
 }
