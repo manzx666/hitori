@@ -168,7 +168,7 @@ module.exports = naze = async (naze, m, msg, store, groupCache) => {
 			}
 		}, {
 			scheduled: true,
-			timezone: 'Asia/Jakarta'
+			timezone: 'Asia/Kuala_Lumpur'
 		});
 		
 		// Auto Set Bio
